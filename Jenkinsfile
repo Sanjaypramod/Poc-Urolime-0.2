@@ -5,7 +5,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 script {
-                    git 'https://github.com/your-username/your-repo.git'
+                    git 'https://github.com/Sanjaypramod/Poc-Urolime-0.2.git'
                 }
             }
         }
